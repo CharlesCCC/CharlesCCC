@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on E.T.Tracker App (Not really about E.T. but about our own Emotion & Time, but who knows, some could say it is hard to understand self.)
+- 🔭 I’m currently working on ETTracker App (A tool that can help you to get to know yourself.)
 - 🌱 I’m currently learning Flutter -- (#100DayCode Chanllege by practice [Flutter Widget of the Week](https://github.com/CharlesCCC/flutter-widget-of-the-week))
-
 
 
 <!--
