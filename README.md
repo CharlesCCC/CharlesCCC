@@ -6,7 +6,8 @@
 - 🌱 I’m learning Flutter )
 - 🤔 I'm reading <DDIA>([Design Data Intensive Application](https://amzn.to/3d4iThl)). You can also read my note summary [here](https://comeshare.net/category/study/system-design/)
 - 💬 Ask me about Java/Python/Selenium/Instagram Growth/Hackintosh/
-
+- ⚡ Fun fact: I have been doing Insanity Max30 for [over a year now](https://www.tiktok.com/@charlesc.ai). Join me if you would like. 
+  
 <!--
 **CharlesCCC/CharlesCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
