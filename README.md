@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CharlesCCC&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+[![CharlesCCC's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesCCC)](https://github.com/CharlesCCC/github-readme-stats)
 
 - 🔭 I’m currently working on
   - [PromptUp.net](https://promptup.net/) Web app that can help you organizing your prompts. It allows you to create, edit, browse, and manage prompts in various languages with syntax highlighting, Markdown and AI generation support.
